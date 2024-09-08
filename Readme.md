@@ -80,4 +80,3 @@ Make sure you have the following installed:
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 
-```
