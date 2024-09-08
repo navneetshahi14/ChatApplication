@@ -81,5 +81,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 ```
-
-You can customize this as needed for your project, adding more details or modifying based on additional features you may implement later.
